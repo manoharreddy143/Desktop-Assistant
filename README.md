@@ -9,7 +9,7 @@ At least Python 3.6 is required.
 Clone the repository and install the Python dependencies:
 
 ```bash
-git clone git@github.com:prakashpatro/Desktop-Assistant.git
+git clone git@github.com:manoharreddy143/Desktop-Assistant.git
 cd Desktop-Assistant
 pip install -r requirements.txt
 ```
